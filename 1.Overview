@@ -2,5 +2,6 @@
 
 ---
 
-java程序设计语言最初由Sun Microsystems的员工JamesGosling开发，在1995年发布Sun MicrosystemsJava平台(Java 1.0 [J2SE])的核心的组成部分。
-Java标准版Java SE 8是最新版本。随着java的提升跟广泛普及，建造适合各种类型的平台的多种配置。例如：2EE的企业应用程序,J2ME移动应用程序。
+Java程序设计语言最初由Sun Microsystems的员工JamesGosling开发，并在1995年作为Sun Microsystems平台(Java 1.0 [J2SE])的核心组成部分发布。
+
+目前最新发布的Java标准版是Java SE 8。随着Java的改进跟广泛普及，多个不同的版本被开发去适应各种不同的平台。例如：给企业应用的J2EE，给移动应用的J2ME。
