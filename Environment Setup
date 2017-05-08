@@ -18,7 +18,13 @@
 
 设置Windows的路径
    
-
+    假设你安装Java在c:\Program Files\java\jdk目录。
+        右击我的电脑和选择我的属性。
+        
+        在高级选项上点击环境变量按钮。
+        
+        现在，改变路径变量以便它也包含Java可执行文件的路径。例如，如果路径当前设置为C:\WINDOWS\SYSTEM32，
+        那么改变路径为C:\WINDOWS\SYSTEM32;c:\Program Files\java\jdk\bin'
 
 
 
