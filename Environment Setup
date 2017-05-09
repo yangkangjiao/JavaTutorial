@@ -26,7 +26,17 @@
         现在，改变路径变量以便它也包含Java可执行文件的路径。例如，如果路径当前设置为C:\WINDOWS\SYSTEM32，
         那么改变路径为C:\WINDOWS\SYSTEM32;c:\Program Files\java\jdk\bin'
 
+在Linux, UNIX, Solaris, FreeBSD操作系统下设置Java路径。
 
-
-
-
+    环境变量路径必须设置为指向Java已经安装的文件。如果你这样做遇到麻烦请参考你的shell文件。
+    
+    例如，如果你用bash作为你的shell，那么你必须添加以下行到'.bashrc: export PATH = /path/to/java:$PATH'末尾。
+    
+流行的Java编译器
+    
+    
+    
+    
+    
+    
+    
