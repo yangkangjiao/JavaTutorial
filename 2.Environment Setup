@@ -34,9 +34,15 @@
     
 流行的Java编译器
     
+    要想写Java程序，你必须有一个文本编译器。在市场上可以获得有更多的复杂的IDEs。但是现在，你只能考虑以下之一。
     
+    Notepad — 在Windows机器上，你可以使用一些简单的文本编译器，如Notepad（本教程推荐）、TextPad。
     
+    Netbeans — Java的一个IDE，且是开源和免费，可以从https://www.netbeans.org/index.html下载。
     
+    Eclipse — eclipse开源社区开发的一个Java IDE，可以从https://www.eclipse.org下载。
     
-    
+下一章是什么？
+  
+    下一章将教你如何编写跟运行你的第一次Java程序和开发运用程序时所需要的Java的一些重要的基础语法。
     
