@@ -21,3 +21,9 @@
         保存文件且命名为MyFirstJavaProgram.java。
         
         打开命令控制台进入保存类的目录。假设它是C:\
+        
+        输入'javac MyFirstJavaProgram.java',然后按回车编译你的代码。如果你的代码没有错误，那么命令提示符将带你进入下一行（假设：路径变量已经被设置好）。
+        
+        现在，输入' java MyFirstJavaProgram '运行你的程序。
+        
+        你将会在窗口上看到' Hello World '的输出。
