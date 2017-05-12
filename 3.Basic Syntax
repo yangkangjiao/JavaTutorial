@@ -27,3 +27,9 @@
         现在，输入' java MyFirstJavaProgram '运行你的程序。
         
         你将会在窗口上看到' Hello World '的输出。
+
+基本语法
+
+    关于Java程序，牢记以下几点是很重要的。
+    
+    区分大小写 − Java区分大小写，所以这意味着标识符Hello跟hello在Java里是不同的意思。 
