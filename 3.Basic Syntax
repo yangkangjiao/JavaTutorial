@@ -39,9 +39,11 @@
     
     方法名 — 所有方法名必须小写字母开头。如果方法名是几个单词组成，那么每个内部单词的第一个字母必须大写。比如：public void myMethodName()
     
+    程序文件名 — 程序文件名必须完全正确的匹配类型。
     
+    当我们保存文件时，你必须用类名保存它（记住Java是区分大小写）并且在名字后面加'.java'（如果你的文件名不是匹配类名，那么你的程序无法编译）
     
+    举例：假设'MyFirstJavaProgram'是类型。那么的文件必须以'MyFirstJavaProgram.java'为名保存。
     
-    
-    
+    public static void main(String args[]) — Java程序从main（）方法开始处理，且 main()方法是每个Java程序强制性的一部分。
     
