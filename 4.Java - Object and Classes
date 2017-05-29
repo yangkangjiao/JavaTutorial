@@ -124,6 +124,17 @@ Java包
 
 例如：以下行会询问编译器在文件（java_installation/java/io）下载所有可用的类。
 
+一个简单的学习案例
+
+在我们的学习案例中，我们将创建两个类。他们分别是Employee和EmployeeTest。
+
+首先，我们打开记事本添加以下代码。记住这个是Employee类，且这个类是公共类。现在，我们保存源文件且命名为Employee.java。
+
+Employee类有四个实例变量-name, age,designation and salary。该类有一个明确定义的构造方法。且接收一个参数。
+
+在教程的前面提到运行程序时从main方法开始执行。因此，为了可以运行Employee类，我们必须有一个main方法并创建一个对象。
+我们将为这些任务创建一个单独的类。
+
 
     
     
