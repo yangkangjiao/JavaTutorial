@@ -130,10 +130,21 @@ Java包
 
 首先，我们打开记事本添加以下代码。记住这个是Employee类，且这个类是公共类。现在，我们保存源文件且命名为Employee.java。
 
-Employee类有四个实例变量-name, age,designation and salary。该类有一个明确定义的构造方法。且接收一个参数。
+Employee类有四个实例变量-name, age,designation and salary。该类有一个明确定义的构造方法,且接收一个参数。
 
 在教程的前面提到运行程序时从main方法开始执行。因此，为了可以运行Employee类，我们必须有一个main方法并创建一个对象。
 我们将为这些任务创建一个单独的类。
+
+以下是EmployeeTest类，他超级两个实例类，且调用方法给每个对象的变量赋值.   
+
+保存以下代码在EmployeeTest.java文件。
+
+现在，编译这两个类，然后运行EmployeeTest看看结果是否如下
+
+下一章是什么？
+
+在下一个会话，我们将讨论Java中的基本数据类型和开发Java应用软件时怎么使用他们。
+
 
 
     
