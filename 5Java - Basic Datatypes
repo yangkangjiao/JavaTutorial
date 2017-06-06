@@ -141,12 +141,19 @@ java 常量
     比如:int decimal = 100; int octal = 0144; int hexa = 0x64;
 
 Java字符串常量的规则跟大部分语言很像，在双引号之间封装字符序列。字符串常量例子 ——
+
 例如：
+
 "Hello World"
+
 "two\nlines"
+
 "\"This is in quotes\""
+
 符串和字符类型常量可以包含任何Unicode字符。例如 —— char a ='\u0001'; String a ="\u0001";
+
 Java语言也支持一些字符串与字符常量的特殊转义字符。
+
 这一章讲解了不同数据类型。下一章主题讲解不同变量类型与它们的使用。这将会让你清晰理解如何在Java类中、接口等使用他们。
 
 
