@@ -1,1 +1,8 @@
 <center>Java - Variable Types</center>
+
+变量提供我们指定存储让我们可以操作程序。Java中每一个变量都有特定的数据类型来确定变量内存的布局与大小；可以存储在内存中的值范围，和可以应用变量的操作集合。
+
+在使用变量之前你必须声明所以的变量。以下是变量声明的基本格式 ——
+
+data type variable [= value][,avrible [ = value ] ....];
+
