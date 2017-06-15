@@ -90,3 +90,9 @@ data type variable [= value][,avrible [ = value ] ....];
 
     当使用public static final 声明类变量时，变量名（常量）都必须是大写字母。
 	如果静态变量不是公共的和最终的，那么它的命名语法跟实例和局部变量一样。
+
+	注解 —— 如果变量是通过外部类来访问，那么常量的访问方式应该是Employee.DEPAPTMENT.
+
+下一章是什么？
+
+在本章中你已经使用了访问修饰符（public & private）.下一章将讲解修饰符与无修饰符。
